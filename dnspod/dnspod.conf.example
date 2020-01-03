@@ -1,0 +1,5 @@
+TOKEN=""
+RECORD_LINE="默认"
+DOMAIN="domain.com"
+CERT_DOMAINS="a.domain.com b.domain.com"
+#ECC=TRUE
